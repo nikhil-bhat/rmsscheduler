@@ -13,7 +13,4 @@ ing table is provided...
 normally the clock driven scheduler is fed with a scheduling table and the executes
 just for experimentation and lack of such tables I tried out a rms-scheduler to generate a table...........
 
-Assignment :
-Nikhil Bhat 2013h140036
-nikhilbhat2008@gmail.com
 
